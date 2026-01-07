@@ -52,7 +52,7 @@ span{
 }
 .first-password,.second-password{
     background-color: #273549;  
-    width: 47%;
+    width: 49%;
     height: 40px;
     border-radius: 5px;
     display: flex;
@@ -61,7 +61,7 @@ span{
 #first-el,#second-el{
     color: #4adf86;
     font-size: 16px;
-    margin: 10px 5px;
+    margin: 10px 2px;
 }   
 @media screen and (min-width: 350px) and (max-width: 768px) {
   body {
