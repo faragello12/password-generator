@@ -2,10 +2,12 @@ body {
     margin: 0;
     background-color: #1c1c1c;
     font-family: "Inter", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .container{
-    width: 350px;
-    margin: auto;
+    width: 300px;
 }
 .card{
     margin: 15px 10px;
