@@ -67,4 +67,7 @@ span{
   body {
     display:block;
   }
+  .container{
+    width: 80%;
+}
 }
