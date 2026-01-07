@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background-color: #1c1c1c;
+    font-family: "Inter", sans-serif;
+}
+.container{
+    width: 400px;
+    margin: auto;
+}
+.card{
+    margin: 15px 10px;
+    background-color: #1f2937;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding: 50px 25px; 
+}
+.card h1 {
+    margin: 5px 0;
+}
+.card-p{
+    margin-bottom: 70px;
+    font-weight: 200;
+}
+span{
+    color: #4adf86;
+}
+.card button {
+    width: 175px;
+    font-size: 16px;
+    padding: 10px 5px;
+    background-color: #4adf86;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+.line{
+    background-color: #273549;
+    width: 100%;
+    height: 2px;
+    margin: 50px 0;
+}
+.output{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.first-password,.second-password{
+    background-color: #273549;  
+    width: 47%;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+#first-el,#second-el{
+    color: #4adf86;
+    font-size: 16px;
+    margin: 10px 5px;
+}
